@@ -1,0 +1,15 @@
+C:\Users\Adam\source\repos\JoiningData\JoiningData\bin\Debug\net6.0\JoiningData.exe
+C:\Users\Adam\source\repos\JoiningData\JoiningData\bin\Debug\net6.0\JoiningData.deps.json
+C:\Users\Adam\source\repos\JoiningData\JoiningData\bin\Debug\net6.0\JoiningData.runtimeconfig.json
+C:\Users\Adam\source\repos\JoiningData\JoiningData\bin\Debug\net6.0\JoiningData.dll
+C:\Users\Adam\source\repos\JoiningData\JoiningData\bin\Debug\net6.0\JoiningData.pdb
+C:\Users\Adam\source\repos\JoiningData\JoiningData\obj\Debug\net6.0\JoiningData.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\JoiningData\JoiningData\obj\Debug\net6.0\JoiningData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\JoiningData\JoiningData\obj\Debug\net6.0\JoiningData.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\JoiningData\JoiningData\obj\Debug\net6.0\JoiningData.AssemblyInfo.cs
+C:\Users\Adam\source\repos\JoiningData\JoiningData\obj\Debug\net6.0\JoiningData.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\JoiningData\JoiningData\obj\Debug\net6.0\JoiningData.dll
+C:\Users\Adam\source\repos\JoiningData\JoiningData\obj\Debug\net6.0\refint\JoiningData.dll
+C:\Users\Adam\source\repos\JoiningData\JoiningData\obj\Debug\net6.0\JoiningData.pdb
+C:\Users\Adam\source\repos\JoiningData\JoiningData\obj\Debug\net6.0\JoiningData.genruntimeconfig.cache
+C:\Users\Adam\source\repos\JoiningData\JoiningData\obj\Debug\net6.0\ref\JoiningData.dll
